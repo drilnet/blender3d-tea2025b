@@ -6,9 +6,9 @@ kk
 
 <div align="center">
 <a>
-<table align="center">
+<table>
   <tr>
-    <td align="left">jjjjjjj</td>
+    <td>jjjjjjj</td>
   </tr>
   </table>
   </a>
