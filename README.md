@@ -11,3 +11,5 @@ kk
   </tr>
   </table>
   </div>
+  
+  <center>Centered text</center>
