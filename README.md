@@ -5,12 +5,10 @@ kk
 </div>
 
 <div align="center">
-<p align="center">
 <table>
   <tr>
     <td>jjjjjjj</td>
   </tr>
-  </table></p>
+  </table>
   </div>
   
-  <center>Centered text</center>
