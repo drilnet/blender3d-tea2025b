@@ -1,16 +1,12 @@
 # blender3d-tea2025b
 
 <div align="center">
-kk
-</div>
-
-<div align="center">
 <table>
   <tr>
     <td>
 <table align="center">
   <tr>
-    <td>kkkk
+    <td>OOPS
     </td>
   </tr>
       </table>
