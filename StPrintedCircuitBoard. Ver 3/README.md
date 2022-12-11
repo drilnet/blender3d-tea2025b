@@ -3,7 +3,7 @@
 **Каталоги:**
 
 [50 frames - Animation, contrast](https://github.com/drilnet/blender3d-tea2025b/tree/master/StPrintedCircuitBoard.%20Ver%203/50%20frames%20-%20Animation%2C%20contrast "Перейти в каталог") - Анимационные кадры с повышенной контрастностью.
-
+<br>
 [50 frames - Animation](https://github.com/drilnet/blender3d-tea2025b/tree/master/StPrintedCircuitBoard.%20Ver%203/50%20frames%20-%20Animation "Перейти в каталог") - Анимационные кадры.
 <br>
 [Textures](https://github.com/drilnet/blender3d-tea2025b/tree/master/StPrintedCircuitBoard.%20Ver%203/Textures "Перейти в каталог") - Текстуры для проекта.
