@@ -1,14 +1,16 @@
 ![](https://github.com/drilnet/blender3d-tea2025b/blob/master/UA.png)
 
 **Каталоги:**
-```
-50 frames - Animation, contrast - Анимационные кадры с повышенной контрастностью.
-50 frames - Animation           - Анимационные кадры.
-Textures                        - Текстуры для проекта.
-```
+
+[50 frames - Animation, contrast](https://github.com/drilnet/blender3d-tea2025b/tree/master/StPrintedCircuitBoard.%20Ver%203/50%20frames%20-%20Animation%2C%20contrast "Перейти в каталог") - Анимационные кадры с повышенной контрастностью.
+<br>
+[50 frames - Animation](https://github.com/drilnet/blender3d-tea2025b/tree/master/StPrintedCircuitBoard.%20Ver%203/50%20frames%20-%20Animation "Перейти в каталог") - Анимационные кадры.
+<br>
+[Textures](https://github.com/drilnet/blender3d-tea2025b/tree/master/StPrintedCircuitBoard.%20Ver%203/Textures "Перейти в каталог") - Текстуры для проекта.
+
 **blend-файл:**
 
-[Printed circuit board.blend](https://github.com/drilnet/blender3d-tea2025b/blob/master/StPrintedCircuitBoard.%20Ver%203/Printed%20circuit%20board.blend)
+[Printed circuit board.blend](https://github.com/drilnet/blender3d-tea2025b/blob/master/StPrintedCircuitBoard.%20Ver%203/Printed%20circuit%20board.blend "Файл Blender'a")
 
 **Текстовые файлы:**
 ```
