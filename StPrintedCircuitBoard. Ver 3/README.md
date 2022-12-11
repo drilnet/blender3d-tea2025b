@@ -17,3 +17,6 @@
 * [ImageMagick.Readme(RUS) - 1251.txt](https://github.com/drilnet/blender3d-tea2025b/blob/master/StPrintedCircuitBoard.%20Ver%203/ImageMagick.Readme(RUS)%20-%201251.txt "Текстовый файл (кодировка CP1251)") - Пример как добавить контрастность с помощью [ImageMagick](https://www.imagemagick.org "Перейти на сайт ImageMagick") (нужен [ImageMagick](https://www.imagemagick.org "Перейти на сайт ImageMagick")).
 * [ImageMagick.Readme(RUS) - UTF8.txt](https://github.com/drilnet/blender3d-tea2025b/blob/master/StPrintedCircuitBoard.%20Ver%203/ImageMagick.Readme(RUS)%20-%20UTF8.txt "Текстовый файл (кодировка UTF-8)") - Пример как добавить контрастность с помощью [ImageMagick](https://www.imagemagick.org "Перейти на сайт ImageMagick") (нужен [ImageMagick](https://www.imagemagick.org "Перейти на сайт ImageMagick")).
 
+**Файл на языке Perl:**
+
+* [contrast.pl](https://github.com/drilnet/blender3d-tea2025b/blob/master/StPrintedCircuitBoard.%20Ver%203/contrast.pl) - Скрипт, который добавляет контрастность.
