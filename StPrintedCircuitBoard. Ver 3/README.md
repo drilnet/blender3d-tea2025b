@@ -2,23 +2,18 @@
 
 **Каталоги:**
 
-[50 frames - Animation, contrast](https://github.com/drilnet/blender3d-tea2025b/tree/master/StPrintedCircuitBoard.%20Ver%203/50%20frames%20-%20Animation%2C%20contrast "Перейти в каталог") - Анимационные кадры с повышенной контрастностью.
-<br>
-[50 frames - Animation](https://github.com/drilnet/blender3d-tea2025b/tree/master/StPrintedCircuitBoard.%20Ver%203/50%20frames%20-%20Animation "Перейти в каталог") - Анимационные кадры.
-<br>
-[Textures](https://github.com/drilnet/blender3d-tea2025b/tree/master/StPrintedCircuitBoard.%20Ver%203/Textures "Перейти в каталог") - Текстуры для проекта.
+* [50 frames - Animation, contrast](https://github.com/drilnet/blender3d-tea2025b/tree/master/StPrintedCircuitBoard.%20Ver%203/50%20frames%20-%20Animation%2C%20contrast "Перейти в каталог") - Анимационные кадры с повышенной контрастностью.
+* [50 frames - Animation](https://github.com/drilnet/blender3d-tea2025b/tree/master/StPrintedCircuitBoard.%20Ver%203/50%20frames%20-%20Animation "Перейти в каталог") - Анимационные кадры.
+* [Textures](https://github.com/drilnet/blender3d-tea2025b/tree/master/StPrintedCircuitBoard.%20Ver%203/Textures "Перейти в каталог") - Текстуры для проекта.
 
 **blend-файл:**
 
-[Printed circuit board.blend](https://github.com/drilnet/blender3d-tea2025b/blob/master/StPrintedCircuitBoard.%20Ver%203/Printed%20circuit%20board.blend "Файл Blender'a")
+* [Printed circuit board.blend](https://github.com/drilnet/blender3d-tea2025b/blob/master/StPrintedCircuitBoard.%20Ver%203/Printed%20circuit%20board.blend "Файл Blender'a")
 
 **Текстовые файлы:**
 
-[Distance (RUS) - 1251.txt](https://github.com/drilnet/blender3d-tea2025b/blob/master/StPrintedCircuitBoard.%20Ver%203/Distance%20(RUS)%20-%201251.txt "Текстовый файл (кодировка CP1251)") - Расстояние между выводами радиодеталей.
-<br>
-[Distance (RUS) - UTF8.txt](https://github.com/drilnet/blender3d-tea2025b/blob/master/StPrintedCircuitBoard.%20Ver%203/Distance%20(RUS)%20-%20UTF8.txt "Текстовый файл (кодировка UTF-8)") - Расстояние между выводами радиодеталей.
-<br>
-'ImageMagick.Readme(RUS) - 1251.txt' - Пример как добавить контрастность с помощью ImageMagick (нужен ImageMagick).
-<br>
-'ImageMagick.Readme(RUS) - UTF8.txt' - Пример как добавить контрастность с помощью ImageMagick (нужен ImageMagick).
+* [Distance (RUS) - 1251.txt](https://github.com/drilnet/blender3d-tea2025b/blob/master/StPrintedCircuitBoard.%20Ver%203/Distance%20(RUS)%20-%201251.txt "Текстовый файл (кодировка CP1251)") - Расстояние между выводами радиодеталей.
+* [Distance (RUS) - UTF8.txt](https://github.com/drilnet/blender3d-tea2025b/blob/master/StPrintedCircuitBoard.%20Ver%203/Distance%20(RUS)%20-%20UTF8.txt "Текстовый файл (кодировка UTF-8)") - Расстояние между выводами радиодеталей.
+* [ImageMagick.Readme(RUS) - 1251.txt](https://github.com/drilnet/blender3d-tea2025b/blob/master/StPrintedCircuitBoard.%20Ver%203/ImageMagick.Readme(RUS)%20-%201251.txt "Текстовый файл (кодировка CP1251)") - Пример как добавить контрастность с помощью ImageMagick (нужен ImageMagick).
+* [ImageMagick.Readme(RUS) - UTF8.txt](https://github.com/drilnet/blender3d-tea2025b/blob/master/StPrintedCircuitBoard.%20Ver%203/ImageMagick.Readme(RUS)%20-%20UTF8.txt "Текстовый файл (кодировка UTF-8)") - Пример как добавить контрастность с помощью ImageMagick (нужен ImageMagick).
 
