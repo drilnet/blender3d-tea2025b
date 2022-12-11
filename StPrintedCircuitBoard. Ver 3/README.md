@@ -13,9 +13,12 @@
 [Printed circuit board.blend](https://github.com/drilnet/blender3d-tea2025b/blob/master/StPrintedCircuitBoard.%20Ver%203/Printed%20circuit%20board.blend "Файл Blender'a")
 
 **Текстовые файлы:**
-```
-'Distance (RUS) - 1251.txt'          - Расстояние между выводами.
-'Distance (RUS) - UTF8.txt'          - Расстояние между выводами.
+
+[Distance (RUS) - 1251.txt](https://github.com/drilnet/blender3d-tea2025b/blob/master/StPrintedCircuitBoard.%20Ver%203/Distance%20(RUS)%20-%201251.txt "Текстовый файл (кодировка CP1251)") - Расстояние между выводами радиодеталей.
+<br>
+[Distance (RUS) - UTF8.txt](https://github.com/drilnet/blender3d-tea2025b/blob/master/StPrintedCircuitBoard.%20Ver%203/Distance%20(RUS)%20-%20UTF8.txt "Текстовый файл (кодировка UTF-8)") - Расстояние между выводами радиодеталей.
+<br>
 'ImageMagick.Readme(RUS) - 1251.txt' - Пример как добавить контрастность с помощью ImageMagick (нужен ImageMagick).
+<br>
 'ImageMagick.Readme(RUS) - UTF8.txt' - Пример как добавить контрастность с помощью ImageMagick (нужен ImageMagick).
-```
+
