@@ -20,3 +20,6 @@
 **Файл на языке Perl:**
 
 * [contrast.pl](https://github.com/drilnet/blender3d-tea2025b/blob/master/StPrintedCircuitBoard.%20Ver%203/contrast.pl "Текстовый файл") - Скрипт, который добавляет контрастность кадрам.
+
+**Командный файл bat:**
+
