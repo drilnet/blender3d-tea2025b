@@ -2,8 +2,8 @@
 
 **Каталоги:**
 ```
-50 frames - Animation, contrast - Анимационные кадпы.
-50 frames - Animation           - 
-Textures
+50 frames - Animation, contrast - Анимационные кадры с повышенной контрастностью.
+50 frames - Animation           - Анимационные кадры.
+Textures                        - Текстуры для проекта.
 ```
 
