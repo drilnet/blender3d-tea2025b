@@ -23,3 +23,4 @@
 
 **Командный файл bat:**
 
+[img2webp_frames00-49_HQ_&_LQ.bat](https://github.com/drilnet/blender3d-tea2025b/blob/master/StPrintedCircuitBoard.%20Ver%203/img2webp_frames00-49_HQ_%26_LQ.bat "Текстовый файл") - Файл, который создаёт анимационные файлы *.webp
