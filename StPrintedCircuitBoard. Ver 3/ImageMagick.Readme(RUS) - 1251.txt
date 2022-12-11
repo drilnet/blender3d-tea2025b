@@ -1,0 +1,8 @@
+
+    Некоторые примеры.
+
+    Добавить контрастность:
+       $ convert -quality 100 -brightness-contrast 0/10 входной_файл.png выходной_файл.png
+
+    Объединить два изображения (вертикально).
+       $ montage 1.png 2.png -geometry +0+0 -tile 1x3 output.png
