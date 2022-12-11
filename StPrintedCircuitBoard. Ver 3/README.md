@@ -24,3 +24,5 @@
 **Командный файл bat:**
 
 * [img2webp_frames00-49_HQ_&_LQ.bat](https://github.com/drilnet/blender3d-tea2025b/blob/master/StPrintedCircuitBoard.%20Ver%203/img2webp_frames00-49_HQ_%26_LQ.bat "Текстовый файл") - Файл, который создаёт анимационные файлы *.webp (нужен [img2webp.exe](https://storage.googleapis.com/downloads.webmproject.org/releases/webp/libwebp-1.0.2-rc1-windows-x86-no-wic.zip "Архив где есть img2webp.exe")).
+
+Упоминание о файлах webp было [здесь](https://github.com/drilnet/blender3d-logovrle8-logovrle16/tree/master/LogoVRLE8%2C%20ver.%2007b "Логотип VRLE8") и [здесь](https://github.com/drilnet/blender3d-logovrle8-logovrle16/tree/master/LogoVRLE16%2C%20ver.%2007a "Логотип VRLE16")
