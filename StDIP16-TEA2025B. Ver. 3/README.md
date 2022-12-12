@@ -20,3 +20,11 @@
 **blend-файл:**
 
 * [TEA2025B.blend](https://github.com/drilnet/blender3d-tea2025b/blob/master/StDIP16-TEA2025B.%20Ver.%203/TEA2025B.blend "Файл Blender'a")
+
+**Файл на языке Perl:**
+
+* [contrast.pl](https://github.com/drilnet/blender3d-tea2025b/blob/master/StDIP16-TEA2025B.%20Ver.%203/contrast.pl "Текстовый файл (кодировка UTF-8)") - Скрипт, который добавляет контрастность кадрам (нужен [Perl](http://www.perl.org/ "Перейти на сайт Perl")).
+
+**Командный файл bat (Windows):**
+
+* [img2webp_frames100_HQ_& LQ.bat](https://github.com/drilnet/blender3d-tea2025b/blob/master/StDIP16-TEA2025B.%20Ver.%203/img2webp_frames100_HQ_%26_LQ.bat) - Файл, который создаёт анимационные файлы .webp (нужен [img2webp.exe](https://storage.googleapis.com/downloads.webmproject.org/releases/webp/libwebp-1.0.2-rc1-windows-x86-no-wic.zip "Архив где есть img2webp.exe"))
