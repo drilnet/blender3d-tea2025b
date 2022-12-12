@@ -1,5 +1,11 @@
 ![](https://github.com/drilnet/blender3d-tea2025b/blob/master/UA.png)
 
+**Сделано:** Blender 2.79b ([https://www.blender.org](https://www.blender.org)).
+<br>
+**Рендер:** Blender Render
+<br>
+**Единица измерения:** Метрическая (в миллиметрах)
+
 **Каталоги:**
 
 * [50 frames - Animation, contrast](https://github.com/drilnet/blender3d-tea2025b/tree/master/StPrintedCircuitBoard.%20Ver%203/50%20frames%20-%20Animation%2C%20contrast "Перейти в каталог") - Анимационные кадры с повышенной контрастностью.
