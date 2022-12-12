@@ -19,3 +19,4 @@
 
 **blend-файл:**
 
+* [TEA2025B.blend](https://github.com/drilnet/blender3d-tea2025b/blob/master/StDIP16-TEA2025B.%20Ver.%203/TEA2025B.blend "Файл Blender'a")
