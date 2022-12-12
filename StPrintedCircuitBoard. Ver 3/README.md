@@ -1,7 +1,7 @@
 ![](https://github.com/drilnet/blender3d-tea2025b/blob/master/UA.png)
 
-Сделано в **Blender 2.79b** (https://www.blender.org).
-<br>
+Модель печатной плата с радиодеталями, сделано в **Blender 2.79b** (https://www.blender.org).
+
 **Рендер:** Blender Render
 <br>
 **Единица измерения:** Метрическая (в миллиметрах)
