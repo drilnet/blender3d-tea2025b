@@ -31,7 +31,7 @@
 
 **Файл на языке Perl:**
 
-* [contrast.pl](https://github.com/drilnet/blender3d-tea2025b/blob/master/StPrintedCircuitBoard.%20Ver%203/contrast.pl "Текстовый файл (кодировка UTF-8)") - Скрипт, который добавляет контрастность кадрам (нужен [Perl](http://www.perl.org "Перейти на сайт Perl")).
+* [contrast.pl](https://github.com/drilnet/blender3d-tea2025b/blob/master/StPrintedCircuitBoard.%20Ver%203/contrast.pl "Текстовый файл (кодировка UTF-8)") - Скрипт, который добавляет контрастность кадрам (нужен [Perl](http://www.perl.org "Перейти на сайт Perl") и нужен [ImageMagick](https://www.imagemagick.org "Перейти на сайт ImageMagick")).
 
 **Командный файл bat (Windows):**
 
