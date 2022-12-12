@@ -28,3 +28,7 @@
 **Командный файл bat (Windows):**
 
 * [img2webp_frames100_HQ_& LQ.bat](https://github.com/drilnet/blender3d-tea2025b/blob/master/StDIP16-TEA2025B.%20Ver.%203/img2webp_frames100_HQ_%26_LQ.bat "Текстовый файл") - Файл, который создаёт анимационные файлы &#x2A;.webp (нужен [img2webp.exe](https://storage.googleapis.com/downloads.webmproject.org/releases/webp/libwebp-1.0.2-rc1-windows-x86-no-wic.zip "Архив где есть img2webp.exe"))
+
+Упоминание о файлах **webp** было здесь: [Логотип VRLE8](https://github.com/drilnet/blender3d-logovrle8-logovrle16/tree/master/LogoVRLE8%2C%20ver.%2007b "Логотип VRLE8") и [Логотип VRLE16](https://github.com/drilnet/blender3d-logovrle8-logovrle16/tree/master/LogoVRLE16%2C%20ver.%2007a "Логотип VRLE16").
+
+[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
