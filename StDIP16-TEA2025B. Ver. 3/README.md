@@ -1,1 +1,11 @@
-qwert
+## Blender 3D. Модель микросхемы TEA2025B
+
+Лицензия (License): **GNU GPL V3**.
+
+![](https://github.com/drilnet/blender3d-tea2025b/blob/master/UA.png)
+
+Модель микросхемы TEA2025B, сделано в **Blender 2.79b** (https://www.blender.org).
+
+**Рендер:** Blender Render
+<br>
+**Единица измерения:** Метрическая (в миллиметрах)
