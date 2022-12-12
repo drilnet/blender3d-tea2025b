@@ -1,3 +1,7 @@
+## Blender 3D. Модель печатной платы с радиодеталями
+
+Лицензия (License): **GNU GPL V3**.
+
 ![](https://github.com/drilnet/blender3d-tea2025b/blob/master/UA.png)
 
 Модель печатной платы с радиодеталями, сделано в **Blender 2.79b** (https://www.blender.org).
