@@ -1,6 +1,6 @@
 ![](https://github.com/drilnet/blender3d-tea2025b/blob/master/UA.png)
 
-Модель печатной плата с радиодеталями, сделано в **Blender 2.79b** (https://www.blender.org).
+Модель печатной платы с радиодеталями, сделано в **Blender 2.79b** (https://www.blender.org).
 
 **Рендер:** Blender Render
 <br>
