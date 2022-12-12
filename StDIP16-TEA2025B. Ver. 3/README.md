@@ -9,3 +9,8 @@
 **Рендер:** Blender Render
 <br>
 **Единица измерения:** Метрическая (в миллиметрах)
+
+![](https://github.com/drilnet/blender3d-tea2025b/blob/master/StDIP16-TEA2025B.%20Ver.%203/TEA2025B%2C%20contrast%20LQ.webp)
+
+Каталоги:
+
