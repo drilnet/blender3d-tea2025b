@@ -9,3 +9,11 @@
 [Blender 3D. Модель печатной платы с радиодеталями](https://github.com/drilnet/blender3d-tea2025b/tree/master/StPrintedCircuitBoard.%20Ver%203 "Перейти")
 
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
+
+<hr>
+
+<div align="center">
+<a href="https://drilnet.github.io">
+<img src="https://github.com/drilnet/drilnet.github.io/blob/master/images/gotowebsite.gif" title="https://drilnet.github.io">
+</a>
+</div>
