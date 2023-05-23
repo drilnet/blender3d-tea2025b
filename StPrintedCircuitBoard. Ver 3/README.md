@@ -40,3 +40,13 @@
 Упоминание о файлах **webp** было здесь: [Логотип VRLE8](https://github.com/drilnet/blender3d-logovrle8-logovrle16/tree/master/LogoVRLE8%2C%20ver.%2007b "Логотип VRLE8") и [Логотип VRLE16](https://github.com/drilnet/blender3d-logovrle8-logovrle16/tree/master/LogoVRLE16%2C%20ver.%2007a "Логотип VRLE16").
 
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
+
+<hr>
+
+<div align="center">
+<a href="https://github.com/drilnet/blender3d-tea2025b/tree/master">
+[ Вернуться в начало репозитория ]
+</a>
+</div>
+
+<hr>
